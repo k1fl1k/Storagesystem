@@ -6,8 +6,6 @@
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Documentation](#documentation)
-- [Examples](#examples)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -59,37 +57,17 @@ Before you begin, ensure you have the following installed on your system:
 
 Follow the on-screen instructions to interact with the storage system. Use the provided commands and inputs to manage storage units, categorize items, and perform various operations.
 
-## Documentation
-
-For detailed information about the classes, methods, and overall structure of the program, refer to the [documentation](docs/).
-
-## Examples
-
-Here are some examples of how to use the storage system:
-
-1. **Example 1: Add a Storage Unit**
-
-   ```java
-   // Create a new storage unit
-   StorageUnit myStorageUnit = new StorageUnit("Kitchen");
-   
-   // Add the storage unit to the system
-   storageSystem.addStorageUnit(myStorageUnit);
-   ```
-
-2. **Example 2: Add an Item to a Storage Unit**
-
-   ```java
-   // Create a new item
-   Item myItem = new Item("Toaster", 1);
-   
-   // Add the item to a specific storage unit
-   storageSystem.addItemToStorageUnit(myItem, "Kitchen");
-   ```
-
 ## Contributing
 
-If you would like to contribute to the development of this storage system, please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
+We welcome contributions from the community to enhance the functionality and features of the Storage System. If you would like to contribute, please follow these guidelines:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them with a descriptive commit message.
+4. Push your changes to your fork.
+5. Submit a pull request, explaining the changes and why they are necessary.
+
+We appreciate your contributions and thank you for helping improve the Storage System!
 
 ## License
 
