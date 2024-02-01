@@ -1,0 +1,82 @@
+[
+  {
+    "storageName": "Data Science Specialist",
+    "address": "370 Jacobson Hill",
+    "admin": "Lizbeth Emard",
+    "id": "aa94eb52-5445-4cce-8c4d-92cb49049707",
+    "errors": [],
+    "isValid": false
+  },
+  {
+    "storageName": "Lead Programmer",
+    "address": "3366 Loyd Burgs",
+    "admin": "Rolando Wolff IV",
+    "id": "ec95c056-3955-495f-abb6-d8131b40c88f",
+    "errors": [],
+    "isValid": false
+  },
+  {
+    "storageName": "Marketing Strategist",
+    "address": "4897 Shera Skyway",
+    "admin": "Alberto Mraz DDS",
+    "id": "cdb011f0-816e-4f6f-8247-658a148f487f",
+    "errors": [],
+    "isValid": false
+  },
+  {
+    "storageName": "IT Security Analyst",
+    "address": "658 Wolff Fords",
+    "admin": "Casandra West",
+    "id": "d4fd240f-d46a-4980-b1cb-44a835222b6f",
+    "errors": [],
+    "isValid": false
+  },
+  {
+    "storageName": "Financial Advisor",
+    "address": "771 Hermiston Crossroad",
+    "admin": "Jacki Collins",
+    "id": "07bf4c1d-501d-4ef8-ba32-d80be5331b7f",
+    "errors": [],
+    "isValid": false
+  },
+  {
+    "storageName": "Customer Experience Manager",
+    "address": "7842 Boehm Village",
+    "admin": "Emery Dare",
+    "id": "a02b2623-a2ff-48b0-aace-9f0fff6b4c91",
+    "errors": [],
+    "isValid": false
+  },
+  {
+    "storageName": "Product Development Coordinator",
+    "address": "75593 Lind Port",
+    "admin": "Refugio Jakubowski PhD",
+    "id": "3c828d65-6103-498a-998e-87f4dee73263",
+    "errors": [],
+    "isValid": false
+  },
+  {
+    "storageName": "Human Resources Consultant",
+    "address": "22401 Parker Terrace",
+    "admin": "Angelo Labadie",
+    "id": "390c8071-1c21-4a9e-83b2-2cda6548fb15",
+    "errors": [],
+    "isValid": false
+  },
+  {
+    "storageName": "Operations Manager",
+    "address": "0620 Reilly Spur",
+    "admin": "Travis Ledner",
+    "id": "27289f29-cf3a-4bfc-b07f-0118d438c8eb",
+    "errors": [],
+    "isValid": false
+  },
+  {
+    "storageName": "Supply Chain Coordinator",
+    "address": "200 Kelly Cove",
+    "admin": "Lean Kulas III",
+    "id": "7c1034de-1928-4d90-9896-b8cedc5074a6",
+    "errors": [],
+    "isValid": false
+  }
+]
